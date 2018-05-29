@@ -1,11 +1,11 @@
-Name: jolokia-jvm-agent		
-Version: 1.3.3
+Name: jolokia-jvm-agent
+Version: 1.5.0
 Release: 1%{?dist}
 Summary: Jolokia is remote JMX with JSON over HTTP
 Group: Applications/Internet
 License: Apache (v2)
 URL: https://jolokia.org/
-Source0: https://github.com/rhuss/jolokia/releases/download/v1.3.3/jolokia-1.3.3-source.tar.gz
+Source0: https://github.com/rhuss/jolokia/releases/download/v1.5.0/jolokia-1.5.0-source.tar.gz
 BuildArch: noarch
 BuildRequires: java, maven
 Requires: java
